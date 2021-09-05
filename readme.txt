@@ -5,3 +5,4 @@ creating a new branch is quick!
 creating a new branch is quick and simple!
 test another feature!now is master
 now is dev
+test bug branch
